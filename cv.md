@@ -1,4 +1,4 @@
-                               # My curriculum vitae
+# My curriculum vitae
 
 **First and last name:** Maria Breslavec.
 Contact: alwayslearn@mail.ru, Discord nickname: Maria(@morevna).
@@ -8,7 +8,8 @@ Contact: alwayslearn@mail.ru, Discord nickname: Maria(@morevna).
 **Skills:** as I said above, I have no experience in development and knowledge is not much. A little bit of html (tags, so far, often looking in the reference book). Things are the same with css. I'm learning to work with git. I'm learning to layout pages in Visual Studio Code. I really hope to expand my knowledge by the end of RS school.
 
 **Code examples:**
-```let a = 11;
+```javascript
+let a = 11;
 let b = 11;
 let result = a * b;
 function multiply(a, b){
@@ -23,11 +24,3 @@ This task was solved on codewars. However, I haven't studied JS yet and solved i
 **Education:** finished high school, now I'm in college.
 
 **English:** on some tests my level of knowledge was A1 - Beginner, on some tests it was not even up to this mark. Short language practice was with a teacher at school (she was not a native English speaker). At the moment I am studying the language on my own.
-
-
-
-
-
-
-
-
